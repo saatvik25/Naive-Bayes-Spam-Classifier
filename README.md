@@ -8,6 +8,6 @@
 
 </head>
 <body>
-    <a href="18CSC302J Computer Networks Lab.pdf">link text</a>
+    <a href="c.pdf">link text</a>
 </body>
 </html>
