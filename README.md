@@ -36,4 +36,4 @@ The Bag of Words vectorizer is used to convert text data into a numerical repres
 
 ## Contact
 
-For any questions or inquiries, feel free to contact [saatviksrivastaav25@gmail.com] or [https://github.com/saatvik25](https://github.com/your-username).
+For any questions or inquiries, feel free to contact [saatviksrivastaav25@gmail.com] or (https://github.com/saatvik25).
