@@ -19,6 +19,11 @@ This repository contains code for training a Naive Bayes spam classifier using s
 2. Follow along with the code to preprocess the data, build the model, and evaluate its performance.
 3. Modify the `emails` list to test the model with new emails.
 4. The code uses the Bag of Words vectorizer to convert text data into numerical features.
+5. The classification algorithm used in this project is Naive Bayes.
+
+## Naive Bayes Classifier
+
+The Naive Bayes algorithm is a probabilistic classification technique based on Bayes' theorem. It's particularly effective for text classification tasks, such as spam detection and sentiment analysis. Despite its simple assumption of feature independence, Naive Bayes often works well for many real-world text datasets.
 
 ## Results
 
@@ -28,8 +33,7 @@ The trained Naive Bayes model achieved an accuracy of approximately 99% on the t
 
 The Bag of Words vectorizer is used to convert text data into a numerical representation that can be used by machine learning algorithms. It creates a sparse matrix where each row represents a document (or email in this case) and each column represents a unique word in the dataset. The value in each cell represents the frequency of that word in the corresponding document.
 
+
 ## Contact
 
-For any questions or inquiries, feel free to contact [saatviksrivastava25@gmail.com] or [[your GitHub profile](https://github.com/saatvik25/cn/edit/main/README.md)https://github.com/saatvik25/](https://github.com/saatvik25).
-
-
+For any questions or inquiries, feel free to contact [saatviksrivastaav25@gmail.com] or [https://github.com/saatvik25/](https://github.com/your-username).
